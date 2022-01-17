@@ -1,8 +1,11 @@
-# Fifa21 Male Players
+  # Fifa21 Male Players
 
-## Project Structure
+  Steps taken in this analysis
 
-* Null values have been cleaned. Some numerical columns I have filled with mean of column.
-* I also did cleaning operation on some columns- Removing currency signs,star signs,converting metrics
-* Cleaned data imported to MySql
-* Tried to analyse data and answer some useful questions on data,also making visualisations
+  The dataset has been cleaned from some kind of signs,some columns splitted,some dropped,also some metric convertions has been done
+  
+  Cleaned data i imported to MySql
+  
+  I made some aggregation functions in SQL to analyse data
+  
+  I put  some useful questions on data,also made visualisations for better understanding data
